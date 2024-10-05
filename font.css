@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'MyCustomFont';
-    src:  url('Minion\ Pro\ Medium.ttf') format('truetype');
+    src:  url('Minion-Pro-Bold.ttf') format('truetype');
     /* Older browser support */
-    font-weight: 500;
+    font-weight: bold;
     font-style: normal;
 }
