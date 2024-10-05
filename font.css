@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src:  url('Minion-Pro-Regular.ttf') format('truetype');
+    /* Older browser support */
+    font-weight: 400;
+    font-style: normal;
+}
